@@ -1,8 +1,6 @@
 
 ## Scalable Invoice Processing System
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 Problem Statement: 
 
 The SAP Concur Invoice platform faced challenges in handling an increasing volume and diversity of invoices, impacting processing efficiency and scalability.
@@ -15,10 +13,10 @@ Impact:
 
 The implementation of this system significantly enhanced the platform's processing capability and scalability, enabling efficient handling of large invoice volumes and diverse formats, thereby improving overall operational efficiency and readiness for future growth
 
+<center><img src="assets/img/invoiceprocessing.png"/></center>
+
 
 ##  Real-Time Analytics Dashboard
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 Problem Statement: 
 
@@ -32,10 +30,10 @@ Impact:
 
 This dashboard has revolutionized the way product and engineering teams access and utilize real-time data, significantly enhancing decision-making capabilities, streamlining invoice processing, and boosting overall operational efficiency.
 
+<center><img src="assets/img/metricsdashboard.png"/></center>
+
 
 ##  Predictive Cash Flow Analytics
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 Problem Statement: 
 
@@ -48,6 +46,8 @@ Contributed the creation of a predictive analytics tool that leverages historica
 Impact: 
 
 The Predictive Cash Flow Analytics tool has empowered product and customers with actionable insights, enabling better liquidity management, risk assessment, and strategic decision-making, thereby enhancing financial stability and planning.
+
+<center><img src="assets/img/cashflow.png"/></center>
 
 ## API Gateway and Service Mesh Integration
 
@@ -62,3 +62,5 @@ I led the strategic integration of an API Gateway and Service Mesh, selecting Sp
 Impact: 
 
 This initiative markedly improved the platform's scalability, reliability, and performance. By facilitating smoother internal service communication and enabling secure connections to external services, the integration has significantly enhanced system efficiency and expanded the platform's operational capabilities beyond the confines of the SAP Concur data center.
+
+<center><img src="assets/img/servicemesh.png"/></center>
