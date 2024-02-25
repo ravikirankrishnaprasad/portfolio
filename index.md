@@ -1,8 +1,8 @@
----
+* * *
 
 ## My First TechPaper
 
----
+* * *
 
 ### Streamlining Software Development in Enterprises: The Power of Metrics-Driven Development
 
@@ -13,11 +13,11 @@ Link: [View my techpaper](https://ijritcc.org/index.php/ijritcc/article/view/914
 
 <center><img src="assets/img/techpaper.png"/></center>
 
----
+* * *
 
 ## My Recent Projects
 
----
+* * *
 
 ## Scalable Invoice Processing System
 
@@ -35,7 +35,7 @@ The implementation of this system significantly enhanced the platform's processi
 
 <center><img src="assets/img/invoiceprocessing.png"/></center>
 
----
+* * *
 
 ##  Real-Time Analytics Dashboard
 
@@ -53,7 +53,7 @@ This dashboard has revolutionized the way product and engineering teams access a
 
 <center><img src="assets/img/metricsdashboard.png"/></center>
 
----
+* * *
 
 ##  Predictive Cash Flow Analytics
 
@@ -71,7 +71,7 @@ The Predictive Cash Flow Analytics tool has empowered product and customers with
 
 <center><img src="assets/img/cashflow.png"/></center>
 
----
+* * *
 
 ## API Gateway and Service Mesh Integration
 
