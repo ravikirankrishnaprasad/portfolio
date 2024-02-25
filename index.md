@@ -1,6 +1,6 @@
 ---
 
-# My First TechPaper
+## My First TechPaper
 
 ---
 
@@ -15,7 +15,7 @@ Link: [View my techpaper](https://ijritcc.org/index.php/ijritcc/article/view/914
 
 ---
 
-# My Recent Projects
+## My Recent Projects
 
 ---
 
