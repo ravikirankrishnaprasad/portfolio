@@ -4,17 +4,12 @@
 
 ---
 
-Title: 
+### Streamlining Software Development in Enterprises: The Power of Metrics-Driven Development
 
-Streamlining Software Development in Enterprises: The Power of Metrics-Driven Development
-
-Description:
 
 This paper introduces Metrics-Driven Development (MDD), a novel approach designed for the complexities of enterprise Cloud (full-stack) development. In the fast-evolving landscape of Cloud computing, traditional software metrics often fall short. MDD addresses this gap, offering a robust framework to enhance software quality, performance, and efficiency in Cloud environments.
 
-Link:
-
-[View my techpaper](https://ijritcc.org/index.php/ijritcc/article/view/9146)
+Link: [View my techpaper](https://ijritcc.org/index.php/ijritcc/article/view/9146)
 
 <center><img src="assets/img/techpaper.png"/></center>
 
