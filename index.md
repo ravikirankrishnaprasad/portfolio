@@ -1,5 +1,7 @@
+---
 
 # My First TechPaper
+
 ---
 
 Title: 
@@ -17,8 +19,11 @@ Link:
 <center><img src="assets/img/techpaper.png"/></center>
 
 ---
+
 # My Recent Projects
+
 ---
+
 ## Scalable Invoice Processing System
 
 Problem Statement: 
@@ -36,6 +41,7 @@ The implementation of this system significantly enhanced the platform's processi
 <center><img src="assets/img/invoiceprocessing.png"/></center>
 
 ---
+
 ##  Real-Time Analytics Dashboard
 
 Problem Statement: 
@@ -53,6 +59,7 @@ This dashboard has revolutionized the way product and engineering teams access a
 <center><img src="assets/img/metricsdashboard.png"/></center>
 
 ---
+
 ##  Predictive Cash Flow Analytics
 
 Problem Statement: 
@@ -70,6 +77,7 @@ The Predictive Cash Flow Analytics tool has empowered product and customers with
 <center><img src="assets/img/cashflow.png"/></center>
 
 ---
+
 ## API Gateway and Service Mesh Integration
 
 Problem Statement: 
