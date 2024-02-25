@@ -1,112 +1,64 @@
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
+## Scalable Invoice Processing System
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+Problem Statement: 
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+The SAP Concur Invoice platform faced challenges in handling an increasing volume and diversity of invoices, impacting processing efficiency and scalability.
+
+Role and Contributions: 
+
+As Principal Engineer, I spearheaded the development of a microservices-based Scalable Invoice Processing System. My contributions were pivotal in architecting a solution leveraging event driven design, integrating AWS SQS for message queuing with sophisticated Dead Letter Queue (DLQ) processing, and employing Kubernetes with Horizontal Pod Autoscaler to ensure dynamic scalability and robust performance.
+
+Impact: 
+
+The implementation of this system significantly enhanced the platform's processing capability and scalability, enabling efficient handling of large invoice volumes and diverse formats, thereby improving overall operational efficiency and readiness for future growth
 
 
-### Definition lists can be used with HTML syntax.
+##  Real-Time Analytics Dashboard
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Problem Statement: 
 
-```
-The final element.
-```
+The absence of immediate insights into key performance indicators for invoice processing was impeding effective decision-making and operational efficiency.
+
+Role and Contributions: 
+
+Leading the creation of a Real-Time Analytics Dashboard, I was instrumental in architecting an analytics solution that leverages Elasticsearch for data aggregation for visual representation. My notable contribution included the implementation of Metrics Driven Development, enabling the generation of both business and technical metrics tailored to various user personas, from developers and product owners to stakeholders.
+
+Impact: 
+
+This dashboard has revolutionized the way product and engineering teams access and utilize real-time data, significantly enhancing decision-making capabilities, streamlining invoice processing, and boosting overall operational efficiency.
+
+
+##  Predictive Cash Flow Analytics
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+Problem Statement: 
+
+Inability to accurately forecast cash flow creates challenges in liquidity management and strategic financial planning for businesses.
+
+Role and Contributions: 
+
+Contributed the creation of a predictive analytics tool that leverages historical invoice data and AI models to forecast future cash flows. My role involved data analysis, model selection and training, and the development of a user-friendly dashboard for financial insights.
+
+Impact: 
+
+The Predictive Cash Flow Analytics tool has empowered product and customers with actionable insights, enabling better liquidity management, risk assessment, and strategic decision-making, thereby enhancing financial stability and planning.
+
+## API Gateway and Service Mesh Integration
+
+Problem Statement: 
+
+The expansion of the SAP Concur Invoice platform necessitated a more efficient method for managing the communication and service discovery among a growing network of microservices, with challenges compounded by the need to connect with services external to the SAP Concur data center.
+
+Role and Contributions: 
+
+I led the strategic integration of an API Gateway and Service Mesh, selecting Spring Cloud Gateway and Istio for their robust capabilities. My responsibilities extended to architecting a comprehensive integration solution that not only streamlined internal microservices communication but also established secure and efficient connections with external services. This involved close collaboration with various teams to ensure seamless deployment and integration without impacting existing functionalities.
+
+Impact: 
+
+This initiative markedly improved the platform's scalability, reliability, and performance. By facilitating smoother internal service communication and enabling secure connections to external services, the integration has significantly enhanced system efficiency and expanded the platform's operational capabilities beyond the confines of the SAP Concur data center.
