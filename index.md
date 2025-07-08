@@ -1,90 +1,93 @@
-* * *
+---
+layout: default
+title: Ravi Kiran – AI/ML Architect Portfolio
+---
 
-## My First TechPaper
+# 👋 Welcome to My Portfolio
 
-* * *
+I'm **Ravi Kiran**, an AI/ML Architect with a passion for solving real-world problems through intelligent automation, enterprise ML architecture, and generative AI innovations. Below are some of the featured projects I've worked on.
 
-### Streamlining Software Development in Enterprises: The Power of Metrics-Driven Development
+---
 
+## 📚 Publications
 
-This paper introduces Metrics-Driven Development (MDD), a novel approach designed for the complexities of enterprise Cloud (full-stack) development. In the fast-evolving landscape of Cloud computing, traditional software metrics often fall short. MDD addresses this gap, offering a robust framework to enhance software quality, performance, and efficiency in Cloud environments.
+### 📝 Metrics-Driven Development in Cloud Enterprises
 
-Link: [View my techpaper](https://ijritcc.org/index.php/ijritcc/article/view/9146)
+**Summary:** This paper presents a Metrics-Driven Development (MDD) framework for enterprise cloud environments, emphasizing real-time metrics to enhance performance, quality, and delivery.
 
-<center><img src="assets/img/techpaper.png"/></center>
+🔗 [Read the Tech Paper](https://ijritcc.org/index.php/ijritcc/article/view/9146)
 
-* * *
+---
 
-## My Recent Projects
+## 🚀 Selected Projects
 
-* * *
+### 🧴 Skin Cancer Detection with CNN
 
-## Scalable Invoice Processing System
+**Repo:** [Melanoma Detection](https://github.com/ravikirankrishnaprasad/melanoma-detection-neural-network)  
+A custom Convolutional Neural Network model that detects melanoma from dermoscopic skin images. Uses the ISIC dataset covering multiple skin conditions for early cancer diagnosis support.
 
-Problem Statement: 
+---
 
-The SAP Concur Invoice platform faced challenges in handling an increasing volume and diversity of invoices, impacting processing efficiency and scalability.
+### 🔍 SemanticSpotterAI – RAG Search for Insurance Policies
 
-Role and Contributions: 
+**Repo:** [SemanticSpotterAI](https://github.com/ravikirankrishnaprasad/SemanticSpotterAI)  
+Built a Retrieval-Augmented Generation system to answer user queries from complex insurance documents using LLMs and vector-based document retrieval.
 
-As Principal Engineer, I spearheaded the development of a microservices-based Scalable Invoice Processing System. My contributions were pivotal in architecting a solution leveraging event driven design, integrating AWS SQS for message queuing with sophisticated Dead Letter Queue (DLQ) processing, and employing Kubernetes with Horizontal Pod Autoscaler to ensure dynamic scalability and robust performance.
+---
 
-Impact: 
+### 🧑‍💼 Mr. HelpMate AI – Life Insurance GenAI Assistant
 
-The implementation of this system significantly enhanced the platform's processing capability and scalability, enabling efficient handling of large invoice volumes and diverse formats, thereby improving overall operational efficiency and readiness for future growth
+**Repo:** [HelpMateAI](https://github.com/ravikirankrishnaprasad/HelpmateAI)  
+An advanced RAG-based AI assistant to help users understand their life insurance documents. Combines embedding, vector search, and generative models to deliver accurate, context-aware responses.
 
-<center><img src="assets/img/invoiceprocessing.png"/></center>
+---
 
-* * *
+### 🛒 ShopAssist AI 2.0 – Intelligent Laptop Advisor
 
-##  Real-Time Analytics Dashboard
+**Repo:** [ShopAssist AI](https://github.com/ravikirankrishnaprasad/ShopAssistAI)  
+A personalized AI chatbot built with Function Calling API to recommend laptops based on user preferences. Features dynamic dialogue flow and real-time recommendations.
 
-Problem Statement: 
+---
 
-The absence of immediate insights into key performance indicators for invoice processing was impeding effective decision-making and operational efficiency.
+### 🏷️ Automatic Ticket Classification
 
-Role and Contributions: 
+**Repo:** [Ticket Classification](https://github.com/ravikirankrishnaprasad/automatic-ticket-classification)  
+Uses NLP and machine learning to categorize 78K+ customer complaints into predefined product/service buckets. Implements topic modeling (NMF) and supervised learning for high-accuracy classification.
 
-Leading the creation of a Real-Time Analytics Dashboard, I was instrumental in architecting an analytics solution that leverages Elasticsearch for data aggregation for visual representation. My notable contribution included the implementation of Metrics Driven Development, enabling the generation of both business and technical metrics tailored to various user personas, from developers and product owners to stakeholders.
+---
 
-Impact: 
+### 🏥 Disease-Treatment Mapping via Custom NER
 
-This dashboard has revolutionized the way product and engineering teams access and utilize real-time data, significantly enhancing decision-making capabilities, streamlining invoice processing, and boosting overall operational efficiency.
+**Repo:** [Disease-Treatment Mapping](https://github.com/ravikirankrishnaprasad/syntactical-processing-mapping-diseases-on-healthcaredata)  
+Custom NER model using Conditional Random Fields (CRF) to extract disease-treatment relationships from unstructured medical text.
 
-<center><img src="assets/img/metricsdashboard.png"/></center>
+---
 
-* * *
+### 🏘️ House Price Prediction
 
-##  Predictive Cash Flow Analytics
+**Repo:** [House Price Regression](https://github.com/ravikirankrishnaprasad/kaggle_house_price_advanced_regression)  
+Participated in Kaggle challenge to predict housing prices using regression models. Optimized for RMSE between predicted and actual values using feature engineering and model tuning.
 
-Problem Statement: 
+---
 
-Inability to accurately forecast cash flow creates challenges in liquidity management and strategic financial planning for businesses.
+### ✋ Gesture Recognition with Deep Learning
 
-Role and Contributions: 
+**Repo:** [Gesture Recognition](https://github.com/ravikirankrishnaprasad/gesture-recognition-project)  
+Classifies video-based human gestures using architectures like Conv3D, ConvLSTM, and CNN+RNN hybrids for improved sequence learning.
 
-Contributed the creation of a predictive analytics tool that leverages historical invoice data and AI models to forecast future cash flows. My role involved data analysis, model selection and training, and the development of a user-friendly dashboard for financial insights.
+---
 
-Impact: 
+### 💳 Lending Club Loan Default Analysis
 
-The Predictive Cash Flow Analytics tool has empowered product and customers with actionable insights, enabling better liquidity management, risk assessment, and strategic decision-making, thereby enhancing financial stability and planning.
+**Repo:** [LendingClubCaseStudy](https://github.com/ravikirankrishnaprasad/LendingClubCaseStudy)  
+EDA-driven project analyzing factors behind loan defaults. Insights used to improve credit risk modeling and reduce loan losses using data visualization and ML techniques.
 
-<center><img src="assets/img/cashflow.png"/></center>
+---
 
-* * *
+## 📫 Contact
 
-## API Gateway and Service Mesh Integration
+- 📧 [vkrk077@gmail.com](mailto:vkrk077@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravikiran-krishnaprasad-27606a22/)
+- 📂 [GitHub](https://github.com/ravikirankrishnaprasad)
 
-Problem Statement: 
-
-The expansion of the SAP Concur Invoice platform necessitated a more efficient method for managing the communication and service discovery among a growing network of microservices, with challenges compounded by the need to connect with services external to the SAP Concur data center.
-
-Role and Contributions: 
-
-I led the strategic integration of an API Gateway and Service Mesh, selecting Spring Cloud Gateway and Istio for their robust capabilities. My responsibilities extended to architecting a comprehensive integration solution that not only streamlined internal microservices communication but also established secure and efficient connections with external services. This involved close collaboration with various teams to ensure seamless deployment and integration without impacting existing functionalities.
-
-Impact: 
-
-This initiative markedly improved the platform's scalability, reliability, and performance. By facilitating smoother internal service communication and enabling secure connections to external services, the integration has significantly enhanced system efficiency and expanded the platform's operational capabilities beyond the confines of the SAP Concur data center.
-
-<center><img src="assets/img/servicemesh.png"/></center>
+Thanks for visiting! Feel free to explore these projects and reach out for collaboration or discussion. 🙌
