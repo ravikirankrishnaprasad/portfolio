@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Ravi Kiran – AI/ML Architect Portfolio
+title: Ravikiran Krishnaprasad – AI/ML Architect Portfolio
 ---
 
 # 👋 Welcome to My Portfolio
 
-I'm **Ravi Kiran**, an AI/ML Architect with a passion for solving real-world problems through intelligent automation, enterprise ML architecture, and generative AI innovations. Below are some of the featured projects I've worked on.
+I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving real-world problems through intelligent automation, enterprise ML architecture, and generative AI innovations. Below are some of the featured projects I've worked on.
 
 ---
 
