@@ -24,63 +24,72 @@ I'm **Ravi Kiran**, an AI/ML Architect with a passion for solving real-world pro
 ### 🧴 Skin Cancer Detection with CNN
 
 **Repo:** [Melanoma Detection](https://github.com/ravikirankrishnaprasad/melanoma-detection-neural-network)  
-A custom Convolutional Neural Network model that detects melanoma from dermoscopic skin images. Uses the ISIC dataset covering multiple skin conditions for early cancer diagnosis support.
+**Model Used:** Custom Convolutional Neural Network (CNN)  
+Detects melanoma from dermoscopic skin images using CNNs trained on the ISIC dataset. Supports early skin cancer diagnosis.
 
 ---
 
 ### 🔍 SemanticSpotterAI – RAG Search for Insurance Policies
 
 **Repo:** [SemanticSpotterAI](https://github.com/ravikirankrishnaprasad/SemanticSpotterAI)  
-Built a Retrieval-Augmented Generation system to answer user queries from complex insurance documents using LLMs and vector-based document retrieval.
+**Model Used:** Retrieval-Augmented Generation (RAG), LLM (OpenAI/GPT-based)  
+Uses RAG architecture to answer queries from complex insurance documents by combining vector-based document retrieval with generative responses.
 
 ---
 
 ### 🧑‍💼 Mr. HelpMate AI – Life Insurance GenAI Assistant
 
 **Repo:** [HelpMateAI](https://github.com/ravikirankrishnaprasad/HelpmateAI)  
-An advanced RAG-based AI assistant to help users understand their life insurance documents. Combines embedding, vector search, and generative models to deliver accurate, context-aware responses.
+**Model Used:** RAG pipeline with embedding models + LLMs  
+Processes life insurance documents and generates context-aware responses through vector search and generative layers.
 
 ---
 
 ### 🛒 ShopAssist AI 2.0 – Intelligent Laptop Advisor
 
 **Repo:** [ShopAssist AI](https://github.com/ravikirankrishnaprasad/ShopAssistAI)  
-A personalized AI chatbot built with Function Calling API to recommend laptops based on user preferences. Features dynamic dialogue flow and real-time recommendations.
+**Model Used:** Function Calling API + LLM (GPT-3.5/4)  
+A rule-driven LLM chatbot that recommends laptops using structured product data and interactive conversations.
 
 ---
 
 ### 🏷️ Automatic Ticket Classification
 
 **Repo:** [Ticket Classification](https://github.com/ravikirankrishnaprasad/automatic-ticket-classification)  
-Uses NLP and machine learning to categorize 78K+ customer complaints into predefined product/service buckets. Implements topic modeling (NMF) and supervised learning for high-accuracy classification.
+**Model Used:** NLP (TF-IDF + Random Forest, Logistic Regression, Decision Tree), NMF for topic modeling  
+Classifies 78K+ customer complaints by identifying underlying topics and mapping them to predefined categories.
 
 ---
 
 ### 🏥 Disease-Treatment Mapping via Custom NER
 
 **Repo:** [Disease-Treatment Mapping](https://github.com/ravikirankrishnaprasad/syntactical-processing-mapping-diseases-on-healthcaredata)  
-Custom NER model using Conditional Random Fields (CRF) to extract disease-treatment relationships from unstructured medical text.
+**Model Used:** Named Entity Recognition (NER) using Conditional Random Fields (CRF)  
+Extracts diseases and treatments from unstructured medical text using a CRF-based NER model.
 
 ---
 
 ### 🏘️ House Price Prediction
 
 **Repo:** [House Price Regression](https://github.com/ravikirankrishnaprasad/kaggle_house_price_advanced_regression)  
-Participated in Kaggle challenge to predict housing prices using regression models. Optimized for RMSE between predicted and actual values using feature engineering and model tuning.
+**Model Used:** Regression models (Linear Regression, Ridge, Lasso, XGBoost)  
+Predicts house prices using engineered features and multiple regression models, evaluated via RMSE.
 
 ---
 
 ### ✋ Gesture Recognition with Deep Learning
 
 **Repo:** [Gesture Recognition](https://github.com/ravikirankrishnaprasad/gesture-recognition-project)  
-Classifies video-based human gestures using architectures like Conv3D, ConvLSTM, and CNN+RNN hybrids for improved sequence learning.
+**Model Used:** Conv3D, ConvLSTM, CNN+RNN hybrid architectures  
+Classifies hand gestures from video sequences using spatiotemporal deep learning techniques.
 
 ---
 
 ### 💳 Lending Club Loan Default Analysis
 
 **Repo:** [LendingClubCaseStudy](https://github.com/ravikirankrishnaprasad/LendingClubCaseStudy)  
-EDA-driven project analyzing factors behind loan defaults. Insights used to improve credit risk modeling and reduce loan losses using data visualization and ML techniques.
+**Model Used:** Exploratory Data Analysis + Logistic Regression for default prediction  
+Analyzes loan data to extract insights on default risk, identifying key factors through EDA and model evaluation.
 
 ---
 
