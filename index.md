@@ -19,6 +19,20 @@ I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving r
 
 ---
 
+## 🧠 Patents & Innovations
+
+### 📄 ANOMALY DETECTION-AIDED AI CLASSIFIER TRAINING
+
+**Filed by:** SAP Labs India  
+**Co-Inventor:** Ravikiran Krishnaprasad  
+**Application No:** 18/903,764  
+**Patent ID:** 84058451  
+**Patent Ref:** 240333US01  
+**Status:** Filed on Oct 2024
+> *Note: This is proprietary IP filed by SAP Labs. Included here as part of the inventor’s public contribution portfolio.*
+
+---
+
 ## 🚀 Selected Projects
 
 ### 💬 Sentiment-Based Product Recommendation System – Ebuss 
