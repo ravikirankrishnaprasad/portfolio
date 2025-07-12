@@ -137,13 +137,9 @@ I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving r
 - 📂 [GitHub](https://github.com/ravikirankrishnaprasad)
 
 ---
-<div align="center">
-  <p>👁️ Visitor Count</p>
-  <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0006&nbdigits=6&type=page&initCount=0" 
-    title="Visitor Counter" alt="web counter" border="0" />
-  </a>
-</div>
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ravikirankrishnaprasad.portfolio)
+
 ---
 
 Thanks for visiting! Feel free to explore these projects and reach out for collaboration or discussion. 🙌
