@@ -21,35 +21,43 @@ I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving r
 
 ## 🚀 Selected Projects
 
-### 🧴 Skin Cancer Detection with CNN
+### 💬 Sentiment-Based Product Recommendation System – Ebuss 
 
-**Repo:** [Melanoma Detection](https://github.com/ravikirankrishnaprasad/melanoma-detection-neural-network)  
-**Model Used:** Custom Convolutional Neural Network (CNN)  
-Detects melanoma from dermoscopic skin images using CNNs trained on the ISIC dataset. Supports early skin cancer diagnosis.
-
----
-
-### 🔍 SemanticSpotterAI – RAG Search for Insurance Policies
-
-**Repo:** [SemanticSpotterAI](https://github.com/ravikirankrishnaprasad/SemanticSpotterAI)  
-**Model Used:** Retrieval-Augmented Generation (RAG), LLM (OpenAI/GPT-based)  
-Uses RAG architecture to answer queries from complex insurance documents by combining vector-based document retrieval with generative responses.
+**Repo:** [Sentiment-Based Product Recommendation System](https://github.com/ravikirankrishnaprasad/SentimentBasedProductRecommendationSystem)  
+**Models Used:** Logistic Regression, Random Forest, XGBoost, Naive Bayes, User/Item-Based Collaborative Filtering  
+**Description:** A hybrid recommendation engine that combines sentiment analysis of product reviews with collaborative filtering to deliver personalized top product suggestions. Built using NLP and ML techniques, and deployed via Flask on Heroku.
 
 ---
 
-### 🧑‍💼 Mr. HelpMate AI – Life Insurance GenAI Assistant
+### 📄 SemanticSpotterGenAI – Gen AI - RAG-Based Generative Search for Insurance
 
-**Repo:** [HelpMateAI](https://github.com/ravikirankrishnaprasad/HelpmateAI)  
-**Model Used:** RAG pipeline with embedding models + LLMs  
-Processes life insurance documents and generates context-aware responses through vector search and generative layers.
+**Repo:** [SemanticSpotterGenAI](https://github.com/ravikirankrishnaprasad/SemanticSpotterGenAI)  
+**Models Used:** RAG (Retrieval-Augmented Generation), OpenAI GPT, LangChain, LlamaIndex  
+**Description:** A RAG-powered AI system designed to simplify the search of complex insurance documents. It retrieves the most relevant content and generates intelligent, natural-language responses to user queries.
 
 ---
 
-### 🛒 ShopAssist AI 2.0 – Intelligent Laptop Advisor
+### 🧾 Mr.HelpMate AI – Gen AI - Search for Life Insurance Policies
 
-**Repo:** [ShopAssist AI](https://github.com/ravikirankrishnaprasad/ShopAssistAI)  
-**Model Used:** Function Calling API + LLM (GPT-3.5/4)  
-A rule-driven LLM chatbot that recommends laptops using structured product data and interactive conversations.
+**Repo:** [Mr.HelpMate AI](https://github.com/ravikirankrishnaprasad/HelpmateGenAI)  
+**Models Used:** Sentence Transformers, FAISS, ChromaDB, OpenAI GPT (via Transformers)  
+**Description:** A Retrieval-Augmented Generation (RAG) based AI system that helps users understand life insurance documents by extracting key content and generating coherent, policy-specific answers to natural language queries.
+
+---
+
+### 🛍️ ShopAssist 2.0 – Gen AI - Enhanced Conversational AI with Function Calling
+
+**Repo:** [ShopAssist 2.0](https://github.com/ravikirankrishnaprasad/ShopAssistGenAI)  
+**Models Used:** OpenAI GPT-4 (Function Calling API), Rule-based extractors  
+**Description:** An upgraded AI-powered chatbot that integrates OpenAI’s Function Calling to provide dynamic, structured laptop recommendations through a simplified, extensible architecture and refined conversational flow.
+
+---
+
+### 🧾 Automatic Ticket Classification – NLP-Based Complaint Categorization
+
+**Repo:** [Automatic Ticket Classification](https://github.com/ravikirankrishnaprasad/AutomaticTicketClassification)  
+**Models Used:** Non-Negative Matrix Factorization (NMF), Logistic Regression, Decision Tree, Random Forest  
+**Description:** An NLP-based system that automates the classification of customer complaints for a financial services firm using topic modeling and supervised ML. Enables faster ticket resolution by mapping complaints to relevant departments.
 
 ---
 
@@ -61,35 +69,59 @@ Classifies 78K+ customer complaints by identifying underlying topics and mapping
 
 ---
 
-### 🏥 Disease-Treatment Mapping via Custom NER
+### 🩺 Disease-Treatment Mapping – Custom NER with CRF
 
-**Repo:** [Disease-Treatment Mapping](https://github.com/ravikirankrishnaprasad/syntactical-processing-mapping-diseases-on-healthcaredata)  
-**Model Used:** Named Entity Recognition (NER) using Conditional Random Fields (CRF)  
-Extracts diseases and treatments from unstructured medical text using a CRF-based NER model.
-
----
-
-### 🏘️ House Price Prediction
-
-**Repo:** [House Price Regression](https://github.com/ravikirankrishnaprasad/kaggle_house_price_advanced_regression)  
-**Model Used:** Regression models (Linear Regression, Ridge, Lasso, XGBoost)  
-Predicts house prices using engineered features and multiple regression models, evaluated via RMSE.
+**Repo:** [Disease-Treatment Mapping Using Custom NER](https://github.com/ravikirankrishnaprasad/SyntacticalProcessingMappingDiseasesOnHealthcaredata)  
+**Models Used:** Conditional Random Fields (CRF)  
+**Description:** A custom Named Entity Recognition (NER) system for extracting disease-treatment pairs from unstructured medical text using CRF. Designed to support healthcare platforms in processing consultation notes and treatment history.
 
 ---
 
-### ✋ Gesture Recognition with Deep Learning
+### ✋ Gesture Recognition – Deep Learning for Smart TV Controls
 
-**Repo:** [Gesture Recognition](https://github.com/ravikirankrishnaprasad/gesture-recognition-project)  
-**Model Used:** Conv3D, ConvLSTM, CNN+RNN hybrid architectures  
-Classifies hand gestures from video sequences using spatiotemporal deep learning techniques.
+**Repo:** [Gesture Recognition Project](https://github.com/ravikirankrishnaprasad/GestureRecognitionProject)  
+**Models Used:** Conv3D, ConvLSTM, CNN + RNN Hybrid  
+**Description:** A video-based gesture recognition system trained to classify hand gestures for smart TV control using deep learning. Explores Conv3D and RNN architectures to accurately interpret user intent from spatiotemporal data.
 
 ---
 
-### 💳 Lending Club Loan Default Analysis
+### 🧬 Skin Cancer Detection – Melanoma Classification with Custom CNN
 
-**Repo:** [LendingClubCaseStudy](https://github.com/ravikirankrishnaprasad/LendingClubCaseStudy)  
-**Model Used:** Exploratory Data Analysis + Logistic Regression for default prediction  
-Analyzes loan data to extract insights on default risk, identifying key factors through EDA and model evaluation.
+**Repo:** [Skin Cancer Detection using Custom CNN](https://github.com/ravikirankrishnaprasad/MelanomaDetectionNeuralNetwork)  
+**Models Used:** Custom Convolutional Neural Network (CNN)  
+**Description:** A deep learning model built using TensorFlow to classify dermoscopic skin lesion images into various categories, including melanoma. Aims to assist dermatologists with early, automated diagnosis through high-accuracy image classification.
+
+---
+
+### 📞 Telecom Churn Prediction – Kaggle Competition (C-61)
+
+**Repo:** [Telecom Churn Prediction](https://github.com/ravikirankrishnaprasad/TelecomChurnPrediction)  
+**Models Used:** XGBoost, LightGBM, Random Forest, Logistic Regression  
+**Description:** A machine learning solution to predict churn probability in the telecom industry using behavioral and usage patterns. Secured 3rd place in a Kaggle hackathon by enabling targeted retention strategies based on customer risk scores.
+
+---
+
+### 🏠 Housing Price Prediction – Ridge & Lasso Regression
+
+**Repo:** [House Price Prediction](https://github.com/ravikirankrishnaprasad/HousePricePredictionAdvancedRegression)  
+**Models Used:** Linear Regression, Ridge Regression, Lasso Regression  
+**Description:** A regression-based predictive model using regularization (Ridge & Lasso) to estimate Australian housing prices for investment decisions. Implements robust feature selection and tuning for generalizability and business insight.
+
+---
+
+### 🚲 Bike Sharing Demand Prediction – Linear Regression Analysis
+
+**Repo:** [Bike Sharing System](https://github.com/ravikirankrishnaprasad/BikeSharingSystemCaseStudy)  
+**Models Used:** Linear Regression  
+**Description:** A predictive analytics project for BoomBikes to estimate daily shared bike demand using weather, seasonality, and usage data. Helps drive post-COVID business strategy by identifying key demand factors through regression modeling.
+
+---
+
+### 💳 Lending Club Loan Default Analysis – Risk Insights with EDA
+
+**Repo:** [Lending Club Loan Data Analysis](https://github.com/ravikirankrishnaprasad/LendingClubCaseStudy)  
+**Models Used:** Exploratory Data Analysis (EDA)  
+**Description:** A deep dive into Lending Club’s loan dataset to uncover patterns in loan default behavior using EDA. Supports risk mitigation by highlighting correlations with interest rates, loan purpose, borrower income, and geographic distribution.
 
 ---
 
