@@ -138,7 +138,7 @@ I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving r
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ravikirankrishnaprasad.portfolio)
+![Visitor Count](https://hits.sh/ravikirankrishnaprasad.github.io/portfolio.svg?style=flat-square)
 
 ---
 
