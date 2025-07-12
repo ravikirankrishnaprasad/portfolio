@@ -59,15 +59,6 @@ I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving r
 **Models Used:** Non-Negative Matrix Factorization (NMF), Logistic Regression, Decision Tree, Random Forest  
 **Description:** An NLP-based system that automates the classification of customer complaints for a financial services firm using topic modeling and supervised ML. Enables faster ticket resolution by mapping complaints to relevant departments.
 
----
-
-### 🏷️ Automatic Ticket Classification
-
-**Repo:** [Ticket Classification](https://github.com/ravikirankrishnaprasad/automatic-ticket-classification)  
-**Model Used:** NLP (TF-IDF + Random Forest, Logistic Regression, Decision Tree), NMF for topic modeling  
-Classifies 78K+ customer complaints by identifying underlying topics and mapping them to predefined categories.
-
----
 
 ### 🩺 Disease-Treatment Mapping – Custom NER with CRF
 
