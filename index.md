@@ -35,6 +35,13 @@ I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving r
 
 ## 🚀 Selected Projects
 
+### 📚 LlamaIndex ReAct RAG Assistant – Wikipedia Q&A Agent  
+
+**Repo:** [LlamaIndex ReAct RAG based AI Agent](https://github.com/ravikirankrishnaprasad/llamaindex-rag-assistant)
+**Models Used:** OpenAI GPT-4o / GPT-3.5 (Reasoning), OpenAI Embeddings (text-embedding-3-small), LlamaIndex ReActAgent  
+**Description:** A conversational RAG assistant that dynamically indexes Wikipedia pages on user request (`please index: <topic>`) and answers grounded questions using the **ReAct (Reason + Act) pattern**. Built with **LlamaIndex, Chainlit, and OpenAI**, it demonstrates step-by-step reasoning, tool usage, and retrieval for context-aware responses.  
+
+
 ### 💬 Sentiment-Based Product Recommendation System – Ebuss 
 
 **Repo:** [Sentiment-Based Product Recommendation System](https://github.com/ravikirankrishnaprasad/SentimentBasedProductRecommendationSystem)  
