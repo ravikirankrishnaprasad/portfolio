@@ -35,11 +35,13 @@ I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving r
 
 ## 🚀 Selected Projects
 
-### 📚 LlamaIndex ReAct RAG Assistant – Wikipedia Q&A Agent  
+### 📚 ReAct-Powered RAG Assistant – Wikipedia Q&A Agent
+**Repo:** [react-rag-assistant](https://github.com/ravikirankrishnaprasad/llamaindex-rag-assistant)  
+**Models Used:** OpenAI GPT-4o / GPT-3.5 (reasoning), OpenAI Embeddings (text-embedding-3-small), LlamaIndex ReActAgent
+**Description:** An AI agent that uses the ReAct (Reason + Act) pattern to dynamically index Wikipedia topics on user request and provide fact-based, context-grounded answers. Built with LlamaIndex, Chainlit, and OpenAI, the project demonstrates how ReAct reduces hallucinations, improves transparency, and enables complex multi-step tool use.
 
-**Repo:** [LlamaIndex ReAct RAG based AI Agent](https://github.com/ravikirankrishnaprasad/llamaindex-rag-assistant)  
-**Models Used:** OpenAI GPT-4o / GPT-3.5 (Reasoning), OpenAI Embeddings (text-embedding-3-small), LlamaIndex ReActAgent  
-**Description:** A conversational RAG assistant that dynamically indexes Wikipedia pages on user request (`please index: <topic>`) and answers grounded questions using the **ReAct (Reason + Act) pattern**. Built with **LlamaIndex, Chainlit, and OpenAI**, it demonstrates step-by-step reasoning, tool usage, and retrieval for context-aware responses.  
+**Use Case:**
+One of the great ways to reduce hallucinations in LLMs by combining reasoning with retrieval — ensuring accurate, explainable, and grounded responses.
 
 
 ### 💬 Sentiment-Based Product Recommendation System – Ebuss 
