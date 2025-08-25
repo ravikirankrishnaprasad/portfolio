@@ -37,6 +37,7 @@ I'm **Ravikiran Krishnaprasad**, an AI/ML Architect with a passion for solving r
 
 ### 📚 ReAct-Powered RAG Assistant – Wikipedia Q&A Agent
 **Repo:** [react-rag-assistant](https://github.com/ravikirankrishnaprasad/react-rag-assistant)  
+
 **Models Used:** OpenAI GPT-4o / GPT-3.5 (reasoning), OpenAI Embeddings (text-embedding-3-small), LlamaIndex ReActAgent
 **Description:** An AI agent that uses the ReAct (Reason + Act) pattern to dynamically index Wikipedia topics on user request and provide fact-based, context-grounded answers. Built with LlamaIndex, Chainlit, and OpenAI, the project demonstrates how ReAct reduces hallucinations, improves transparency, and enables complex multi-step tool use.
 
